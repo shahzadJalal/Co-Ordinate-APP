@@ -9,7 +9,7 @@ const port= 3000;
 
 //dotenv.config(); this is to hide api key for your own API or you want to hide it.
 
-const appkey = 919109d50f6d6152cffc93b772634265;
+const appkey = "919109d50f6d6152cffc93b772634265";
 
 
 app.use(express.static("public"));
