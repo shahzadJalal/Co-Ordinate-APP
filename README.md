@@ -1,6 +1,6 @@
 Running with node Make sure you have Node.JS v20.15.0 installed
 
-Step 1: cd coOrdinateAPI/
+Step 1: cd Co-Ordinate-APP/
 
 step 2: npm install
 
