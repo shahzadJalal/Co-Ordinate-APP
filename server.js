@@ -1,15 +1,15 @@
 import express from "express";
 import axios from "axios";
 import bodyParser from "body-parser"
-import dotenv from "dotenv";
+// import dotenv from "dotenv";
 //import request  from "request";
 
 const app=express();
 const port= 3000;
 
-dotenv.config();
+//dotenv.config(); this is to hide api key for your own API or you want to hide it.
 
-const appkey = process.env.API_KEY;
+const appkey = 919109d50f6d6152cffc93b772634265;
 
 
 app.use(express.static("public"));
