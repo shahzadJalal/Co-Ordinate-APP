@@ -4,6 +4,6 @@ Step 1: cd Co-Ordinate-APP/
 
 step 2: npm install
 
-Run the server: node server.js or nodemon main.js
+Run the server: node server.js or nodemon server.js
 
 Go to http://localhost:3000.
